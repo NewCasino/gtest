@@ -24,7 +24,7 @@ class DB
 	private $dbPwd = '';
 	//private $dbPwd = 'zkeys';
 	//MySql数据库名称
-	private $dbName = 'us';	
+	private $dbName = 'gtest';
 	
 	private function connect ()
 	{	
